@@ -1,6 +1,6 @@
 # Olá, eu sou o João 👋
 
-Aqui você vai encontrar um pouco da minha jornada como estudante de desenvolvimento web — movido por curiosidade, desafios e a busca por excelência técnica.  
+Aqui você vai encontrar um pouco da minha jornada como estudante de desenvolvimento web movido por curiosidade, desafios e a busca por excelência técnica.  
 Se chegou até aqui, fique à vontade para explorar meus projetos, acompanhar minha evolução pelo GitHub ou trocar uma ideia sobre tecnologia.  
 
 > 📌 _"A melhor forma de prever o futuro é criá-lo."_ — Alan Kay
