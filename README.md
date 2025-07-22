@@ -6,7 +6,7 @@
   🔍 Em constante evolução, com foco em <strong>boas práticas</strong>, <strong>performance</strong> e <strong>design responsivo</strong>
 </p>
 
-<p align="center"><em>"A melhor forma de prever o futuro é criá-lo." — Alan Kay</em></p>
+<p align="center"><em>"A melhor forma de prever o futuro é criá-lo."  Alan Kay</em></p>
 
 ---
 
